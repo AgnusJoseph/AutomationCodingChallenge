@@ -1,0 +1,6 @@
+2022-04-23 14:22:46,035  INFO [main] Log:10 - =====================================Verify HomePage -  TEST START=========================================
+2022-04-23 14:22:46,639  INFO [main] Log:21 - Action methods are going to be executed
+2022-04-23 14:23:13,703  INFO [main] Log:21 - Samsung check box have been clicked
+2022-04-23 14:23:23,929  INFO [main] Log:21 - Second largest priced item has been selected
+2022-04-23 14:23:36,272  INFO [main] Log:21 - About this item text has been printed on the console
+2022-04-23 14:23:36,372  INFO [main] Log:14 - =====================================Test Completed TEST END=========================================
